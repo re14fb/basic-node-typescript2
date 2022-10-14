@@ -43,14 +43,14 @@ npm init -y
 
 <br>
 
-### 5 - Instalar depêndencia express
+### 5 - Instalar dependência express
 ```
 npm i express
 ```
 
 <br>
 
-### 6 - Instalar as depêndencias de desenvolvimento typescript, nodemon, ts-node, @types/express, @types/node
+### 6 - Instalar as dependências de desenvolvimento typescript, nodemon, ts-node, @types/express, @types/node
 ```
 npm i -D typescript nodemon ts-node @types/express @types/node
 ```
